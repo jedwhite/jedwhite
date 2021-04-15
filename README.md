@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LazyWeb, a search chatbot that's ad-free and privacy-focused.
+- 🌱 I’m currently loving all things Python, PyTorch/FastAI, Javascript, Node, React and AWS.
+- 💬 Ask me about search, media and AI
+
+![](https://komarev.com/ghpvc/?username=jedwhite)
+
+
 <!--
 **jedwhite/jedwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
