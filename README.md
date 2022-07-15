@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on LazyWeb, a search chatbot that's ad-free and privacy-focused.
-- 🌱 I’m currently loving all things Python, PyTorch/FastAI, Javascript, Node, React and AWS.
+- 🔭 I’m currently working on Andi, a search assistant that answers complex questions directly, and is free from spam, ads and tracking.
+- 🌱 I’m currently loving all things Python, PyTorch/FastAI, Hugging Face, Javascript, Node, React and AWS.
 - 💬 Ask me about search, media and AI
 
 ![](https://komarev.com/ghpvc/?username=jedwhite)
