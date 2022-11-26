@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Andi, a search assistant that answers complex questions directly, and is free from spam, ads and tracking.
-- 🌱 I’m currently loving all things Python, PyTorch/FastAI, Hugging Face, Javascript, Node, React and AWS.
+- 🌱 Love all things Python, PyTorch/FastAI, Hugging Face, Javascript, Node, React and AWS.
 - 💬 Ask me about search, media and AI
 
 Try out the Andi alpha version at [andisearch.com](https://andisearch.com)
