@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m working on Andi, a search assistant that answers complex questions directly, and is free from spam, ads and tracking.
-- 🌱 Love all things Python, PyTorch/FastAI, Hugging Face, Javascript, Node, React and AWS.
+- 🔭 I’m working on Andi AI, a search assistant that answers complex questions directly, and is free from spam, ads and tracking.
+- 🌱 Love all things Python, PyTorch/FastAI, Hugging Face, Typescript, React.
 - 💬 Ask me about search, media and AI
 
-Try out the Andi alpha version at [andisearch.com](https://andisearch.com)
+#### Recent projects 💪
+
+- [Andi AI Search](https://andiai.com): Try it out at!
+- [AIRun](https://airun.me): Run AI prompts like programs. Executable markdown with shebang, Unix pipes, and output redirection.
+- [YC Advisor](https://yc-adviser.andiai.com): Get feedback and advice on your Application to Y Combinator.
 
 ![](https://komarev.com/ghpvc/?username=jedwhite)
 
