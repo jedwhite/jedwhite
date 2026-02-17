@@ -9,6 +9,7 @@
 - [Andi AI Search](https://andiai.com): Try it out at!
 - [AIRun](https://airun.me): Run AI prompts like programs. Executable markdown with shebang, Unix pipes, and output redirection.
 - [YC Advisor](https://yc-adviser.andiai.com): Get feedback and advice on your Application to Y Combinator.
+- [ShipIt](https://github.com/andisearch/shipit): Turn new code shipping in a repository into a full product launch with one command.
 
 ![](https://komarev.com/ghpvc/?username=jedwhite)
 
